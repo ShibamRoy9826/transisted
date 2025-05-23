@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "transisted.kicad_pro",
+    "filename": "transisted-v2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "src/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -610,7 +610,7 @@
   },
   "sheets": [
     [
-      "17b8edd2-41f5-4965-bad0-d1c6817d4e72",
+      "c29eeb97-e249-453a-bf0b-90ff2e5059ea",
       "Root"
     ]
   ],
